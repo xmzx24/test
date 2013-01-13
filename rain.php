@@ -1,1 +1,3 @@
 raining
+snow
+wind flow

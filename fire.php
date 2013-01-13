@@ -1,1 +1,5 @@
-ice
+<?
+    ice
+    add one more line
+?>
+what
